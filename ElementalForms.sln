@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementalForms", "ElementalForms\ElementalForms.csproj", "{9BB17AB2-E4A7-4BAF-B6E9-BCD386FF6F0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementalForms.Test", "ElementalForms.Test\ElementalForms.Test.csproj", "{30B3AEF1-7C35-4C31-B320-314989D881CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9BB17AB2-E4A7-4BAF-B6E9-BCD386FF6F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BB17AB2-E4A7-4BAF-B6E9-BCD386FF6F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BB17AB2-E4A7-4BAF-B6E9-BCD386FF6F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B3AEF1-7C35-4C31-B320-314989D881CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B3AEF1-7C35-4C31-B320-314989D881CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B3AEF1-7C35-4C31-B320-314989D881CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B3AEF1-7C35-4C31-B320-314989D881CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
